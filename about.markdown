@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am a reader, a closet philosopher, and a (pseudo) scientist.
-This blog is an experiment. Words are the instrument. And you my 
-dear audience, the subject.
+Hello, I am a Rajat. I am a reader, closet philosopher, and a (pseudo) scientist. I wanted to write a book but I'll settle for a blog if I can keep it.
+
 Follow me on Instagram [@rajat.joshi_](https://www.instagram.com/rajat.joshi_/)
