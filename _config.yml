@@ -21,12 +21,13 @@
 title: The Metro Fool
 email: themetrofool+blog@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My uninformed and half baked thoughts. The blog in itself does
-  not hold any central theme. It is a reflection of the subjects
-  that interest me.
+  Hello, I am an engineer, a reader and a closet philosopher.
+  This blog is more of a unrefined public journal than a curated 
+  set of ideas. You might be intrigued by them if share common 
+  interests. You might also be bored by it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#twitter_username: 
 github_username:  metrofool
 
 # Build settings
