@@ -22,8 +22,9 @@ title: Nerds In A Disco
 email: rajatjoshiblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   So three nerds walk into a bar. Nerd one see a beautiful woman
-  and begins spewing high philosopy. This blog is a document of
-  their discussions. Needless to say no one approached the girl.
+  and begins spewing high philosopy to his friends. This blog is 
+  a document of their discussions. Needless to say no one 
+  approached the girl.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
