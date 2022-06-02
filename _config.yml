@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zorba & Buddha
+title: Nerds, Philosophers and Conquerors
 email: rajatjoshiblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   “He who makes a beast of himself gets rid of the pain of being a man”
