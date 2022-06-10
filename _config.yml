@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Cruel Tutelage of Pai Mei
+title: plsFixThis
 email: rajatjoshiblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  “He who makes a beast of himself gets rid of the pain of being a man”
-  - Dr Johnson
+  I read somewhere that writing teaches you how lame your thinking is. 
+  This blog is my attempt to teach myself things ranging from programming to mathematics
+  and record the journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
